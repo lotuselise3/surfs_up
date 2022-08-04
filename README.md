@@ -24,9 +24,9 @@ W. Avy would like more information about temperature trends in Oahu, Hawaii befo
 ![dec_temp_plot](https://user-images.githubusercontent.com/68654746/182718912-207e58f7-a31a-4c2e-8f70-13d4930b5a48.jpg)
 
 ### RESULTS
-- The mean temperature of 75°F for June is higher than the mean temperature of 71°F for December. \
-- After plotting and grouping the data into 15 bins, the histograms illustrated how the data frequency in June and December center around the two different means. To be consist, the ranges of both axes were generated as the same for visually easier comparison of the descriptive statistics between the months. June appears to have a slight left skew, where December is more symmetrical.
-- However, the opposite is true for precipitation. December had the higher precipitation of .22 inches while June had .14 inches.
+- The mean temperature of 75°F for June is higher than the mean temperature of 71°F for December. The lowest and highest tempture it gets in June is 64°F and 85°F respectively, versus 56°F and 83°F respectively in December. Overall, we can conclude that in the months of June, the temperature is a few degrees warmer than in December, but not a huge difference that would jeopardize the ice cream shop business. 
+- After plotting and grouping the data into 15 bins, the histograms illustrated how the data frequency in June and December center around the two different means. To be consist, the ranges of both axes were generated as the same to be able to visually comparise the descriptive statistics easier between months. June appears to have a slight left skew, whereas, in December the data is presented more symmetrical.
+- However, the opposite is true for precipitation. In an additional query, the June and December months were filtered from the date and I found the temperature and precipitation data in a scatterplot. December had the higher precipitation of .22 inches while June had .14 inches. It appears that as the temperature increases, the precipitation decreases more in June than in December. However, the difference in maximun precipitation is nominal (6.42 in December vs. 4.43 in June). Observing both June and December precipitation scatterplots, the precipitation mostly stays under 3 inches with a few outliers that go over 3 inches of precipitation.
 
 ![june_prcp](https://user-images.githubusercontent.com/68654746/182716982-9080c9c7-3a6c-4d70-8b87-44ff242a5fa7.jpg)
 
@@ -38,3 +38,4 @@ W. Avy would like more information about temperature trends in Oahu, Hawaii befo
 
 ---
 **Deliverable 3** ~ Summary**
+The investor W. Avy's main concern was getting rained out too frequently to have a successful ice cream shop business. So we took previous years between 2010 and 2017 of data to compare the months of June and December weather patterns, and I found that temperatures and precipitation means were reasonably close. The temperature data plats were not strongly skewed for either month and he difference of the temperatures to the precipitation for either months were also reasonably similar, with just a few outliers that were over 3 inches of precipitation. Our research and findings points towards opening a successful and enjoyable Surf and Ice Cream shop year-round.
